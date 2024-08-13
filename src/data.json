@@ -1,0 +1,97 @@
+{
+    "title":"Welcome - My name is Iliya !",
+    "subtitle":"Full Stack | JavaScript | Python| React | Html | CSS | bootstrap ",
+    "links":{
+        "Git":"https://github.com/iliya-mehrfard",
+        "LinkedIn":"https://www.linkedin.com/in/iliya-mehrfard/",
+        "Instagram":"https://www.instagram.com/iliya__m8/",
+        "Email":"mailto:iliyamehrfard@gmail.com"
+    },
+    "ids":{
+
+        "3":"SocialIcons3",
+        "4":"SocialIcons4",
+        "5":"SocialIcons5",
+        "6":"SocialIcons6"
+    },
+    "sections":[
+        {
+            "title":"About-Me",
+            "items":[
+                {
+                    "SectionType":"Paragraph",
+                    "OwnerName":"Iliya Mehrfard",
+                    "Education":"Computer Engineer"
+                }
+            ]
+            
+        },
+
+
+
+
+        
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "SectionType":"Box",
+                    "Content":{
+                        "title":"Python",
+                        "logo":"devicon-python-plain",
+                        "lenght":"2 Years"
+                    }
+
+                },                
+                {
+                    "SectionType":"Box",
+                    "Content":{
+                        "title":"laravel",
+                        "logo":"laravel",
+                        "lenght":"1 Years"
+                    }
+
+                }
+                ,                {
+                    "SectionType":"Box",
+                    "Content":{
+                        "title":"HTML",
+                        "logo":"devicon-html5-plain-wordmark",
+                        "lenght":"2 Years"
+                    }
+
+                }
+                ,                {
+                    "SectionType":"Box",
+                    "Content":{
+                        "title":"CSS",
+                        "logo":"devicon-css3-plain-wordmark",
+                        "lenght":"2 Years"
+                    }
+
+                },                {
+                    "SectionType":"Box",
+                    "Content":{
+                        "title":"JavaScript",
+                        "logo":"devicon-javascript-plain",
+                        "lenght":"1 Years"
+                    }
+
+                },               {
+                    "SectionType":"Box",
+                    "Content":{
+                        "title":"React",
+                        "logo":"devicon-react-original-wordmark",
+                        "lenght":"1 Years"
+                    }
+
+                }
+
+
+            ]
+            
+        }
+    ]
+    
+
+}

@@ -1,0 +1,26 @@
+.Skill {
+    background-color: #3ba16e;
+    -webkit-box-shadow: 0 25px 30px 0 rgba(0, 0, 0, 0.4);
+            box-shadow: 0 25px 30px 0 rgba(0, 0, 0, 0.4);
+    width: 100px;
+    height: 100px;
+    margin-top: 1em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  @media only screen and (min-width: 768px) {
+    .Skill {
+      background-color: #3e64cc;
+      -webkit-box-shadow: 0 25px 30px 0 rgba(0, 0, 0, 0.4);
+              box-shadow: 0 25px 30px 0 rgba(0, 0, 0, 0.4);
+      width: 150px;
+      height: 99px;
+
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  /*# sourceMappingURL=SkillBox.css.map */
