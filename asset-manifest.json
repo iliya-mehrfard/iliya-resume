@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/iliya-mehrfard/iliya-resume.git/static/css/main.26ebec6c.css",
+    "main.js": "/iliya-mehrfard/iliya-resume.git/static/js/main.c16ccea8.js",
+    "static/media/Screenshot 2024-08-04 215344.png": "/iliya-mehrfard/iliya-resume.git/static/media/Screenshot 2024-08-04 215344.c28da426be0e6094c6f1.png",
+    "index.html": "/iliya-mehrfard/iliya-resume.git/index.html",
+    "main.26ebec6c.css.map": "/iliya-mehrfard/iliya-resume.git/static/css/main.26ebec6c.css.map",
+    "main.c16ccea8.js.map": "/iliya-mehrfard/iliya-resume.git/static/js/main.c16ccea8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ebec6c.css",
+    "static/js/main.c16ccea8.js"
+  ]
+}
